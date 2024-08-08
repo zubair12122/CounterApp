@@ -8,7 +8,7 @@ const index = () => {
   const reset = () => setinc(count * 0);
   return (
     <View style={styles.container}>
-      <Text style={styles.welText}>Welcome to the CounterApp</Text>
+      <Text style={styles.welText}>Welcome to the CounterApp Users</Text>
       <View style={styles.resultScreen}>
         <Text
           style={{
